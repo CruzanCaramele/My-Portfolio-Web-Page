@@ -6,6 +6,21 @@ body {
 	background-color: #FFF;
 }
 
+.main_size{
+	width: 1180px;
+	height: 260px;
+}
+.pros{
+	height: 200px;
+	width: 293px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3)
+
+}
+#h3{
+	text-align: center;
+	margin-right: 64px;
+}
+
 .text-muted {
 	color: #303030;
 }
